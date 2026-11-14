@@ -1,0 +1,5 @@
+# // ENTRY POINT: Cloudflare Pages project for this repo.
+# Static site, no build step. Deploy with `wrangler pages deploy .`
+# or connect this repo in the Cloudflare Pages dashboard.
+name = "infiltrators-playbook"
+pages_build_output_dir = "."
